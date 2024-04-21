@@ -9,7 +9,7 @@ This is a crime detection system AI model that uses YOLOv8 to detect crimes in a
 To use the model, you need run the jupyter notebooks in following order:
 
 1. `Dataset.ipynb` - This notebook is used to download the dataset and prepare it for training.
-2. `Trainig.ipynb` - This notebook is used to train the model on the dataset.
+2. `Training.ipynb` - This notebook is used to train the model on the dataset.
 3. `Detection.ipynb` - This notebook is used to detect crimes in a video feed.
 
 ## Datasets
